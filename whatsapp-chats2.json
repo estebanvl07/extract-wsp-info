@@ -1,0 +1,25 @@
+{
+  "573---------@c.us": [
+    {
+      "id": "false_128214101967008@lid_3AD72080A6728EF45A19",
+      "from": "573---------@c.us",
+      "to": "573---------@c.us",
+      "body": "hola, te habla mariaangel",
+      "type": "chat",
+      "timestamp": 1776818121,
+      "fromMe": false,
+      "originalFrom": "128214101967008@lid"
+    },
+    {
+      "id": "true_128214101967008@lid_3A7C06A2330B31F8EC92",
+      "from": "573---------@c.us",
+      "to": "573---------@c.us",
+      "body": "Hola, mariangel",
+      "type": "chat",
+      "timestamp": 1776820869,
+      "fromMe": true,
+      "originalFrom": "6649112715487@lid",
+      "originalTo": "128214101967008@lid"
+    }
+  ]
+}
